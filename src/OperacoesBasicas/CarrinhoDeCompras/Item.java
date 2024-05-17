@@ -1,4 +1,4 @@
-package CarrinhoDeCompras;
+package OperacoesBasicas.CarrinhoDeCompras;
 
 public class Item {
     private String nome;
