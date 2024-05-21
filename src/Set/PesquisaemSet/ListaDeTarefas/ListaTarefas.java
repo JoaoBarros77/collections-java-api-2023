@@ -1,4 +1,4 @@
-package PesquisaemSet.ListaDeTarefas;
+package Set.PesquisaemSet.ListaDeTarefas;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package PesquisaemSet.AgendaDeContatos;
+package Set.PesquisaemSet.AgendaDeContatos;
 
 import java.util.HashSet;
 import java.util.Set;
